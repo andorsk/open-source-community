@@ -126,7 +126,7 @@ And in the context of OCA Bundle, it adds the following constraints:
 ```
 
 > [!NOTE]
-> It is up to the Wallet implementors to interpret the Branding Overlay attributes they need to implement their design und style guidelines.
+> It is up to the Wallet implementors to interpret the Branding Overlay attributes they need to implement their design and style guidelines.
 
 <a id="branding-overlay-templating"></a>
 
